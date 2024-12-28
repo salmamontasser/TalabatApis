@@ -1,4 +1,5 @@
->> TalabatApis
+>> TalabatApis::
+>> 
 TalabatApis is a RESTful API built with ASP.NET Core to simulate the backend services of an online food ordering system. This API serves as the backend layer for managing orders, customers, payments, and delivery logistics. The project is modular, scalable, and adheres to modern software development principles.
 
 >> Features
