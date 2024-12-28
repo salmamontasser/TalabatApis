@@ -1,0 +1,15 @@
+D:\Full-Stack_c42\backend(.net)\Talabat\Talabat.Service\bin\Debug\net6.0\Talabat.Service.deps.json
+D:\Full-Stack_c42\backend(.net)\Talabat\Talabat.Service\bin\Debug\net6.0\Talabat.Service.dll
+D:\Full-Stack_c42\backend(.net)\Talabat\Talabat.Service\bin\Debug\net6.0\Talabat.Service.pdb
+D:\Full-Stack_c42\backend(.net)\Talabat\Talabat.Service\obj\Debug\net6.0\Talabat.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Full-Stack_c42\backend(.net)\Talabat\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfoInputs.cache
+D:\Full-Stack_c42\backend(.net)\Talabat\Talabat.Service\obj\Debug\net6.0\Talabat.Service.AssemblyInfo.cs
+D:\Full-Stack_c42\backend(.net)\Talabat\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.CoreCompileInputs.cache
+D:\Full-Stack_c42\backend(.net)\Talabat\Talabat.Service\obj\Debug\net6.0\Talabat.Service.dll
+D:\Full-Stack_c42\backend(.net)\Talabat\Talabat.Service\obj\Debug\net6.0\refint\Talabat.Service.dll
+D:\Full-Stack_c42\backend(.net)\Talabat\Talabat.Service\obj\Debug\net6.0\Talabat.Service.pdb
+D:\Full-Stack_c42\backend(.net)\Talabat\Talabat.Service\obj\Debug\net6.0\ref\Talabat.Service.dll
+D:\Full-Stack_c42\backend(.net)\Talabat\Talabat.Service\bin\Debug\net6.0\Talabat.Core.dll
+D:\Full-Stack_c42\backend(.net)\Talabat\Talabat.Service\bin\Debug\net6.0\Talabat.Core.pdb
+D:\Full-Stack_c42\backend(.net)\Talabat\Talabat.Service\obj\Debug\net6.0\Talabat.Service.csproj.AssemblyReference.cache
+D:\Full-Stack_c42\backend(.net)\Talabat\Talabat.Service\obj\Debug\net6.0\Talabat..89B18B2E.Up2Date
